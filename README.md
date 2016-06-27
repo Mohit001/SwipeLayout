@@ -1,6 +1,6 @@
 # SwipeLayout
 
-可添加侧滑菜单的布局（用于listview、ExpandableListView、GridView）
+可添加侧滑菜单的布局（可用于listview、ExpandableListView、GridView等）
 
 [详细说明](http://blog.csdn.net/amazing7/article/details/51768942)
 
