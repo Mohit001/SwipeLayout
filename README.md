@@ -6,9 +6,15 @@
 效果如图：
 
 ### ListView
-![这里写图片描述](http://img.blog.csdn.net/20160628142439773)
+<div align=center>
+<img src="http://img.blog.csdn.net/20160628142439773" width="175" height="290" />
+</div>
 ### GirdView
-![这里写图片描述](http://img.blog.csdn.net/20160628142507759)
+<div align=center>
+<img src="http://img.blog.csdn.net/20160628142507759" width="175" height="290" />
+</div>
 ### ExpandableListView
-![这里写图片描述](http://img.blog.csdn.net/20160628142452976) 
+<div align=center>
+<img src="http://img.blog.csdn.net/20160628142452976" width="175" height="290" />
+</div>
 
