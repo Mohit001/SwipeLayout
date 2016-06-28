@@ -6,15 +6,16 @@
 效果如图：
 
 ### ListView
-<div align=center>
-<img src="http://img.blog.csdn.net/20160628142439773" width="175" height="290" />
-</div>
-### GirdView
-<div align=center>
-<img src="http://img.blog.csdn.net/20160628142507759" width="175" height="290" />
-</div>
-### ExpandableListView
-<div align=center>
-<img src="http://img.blog.csdn.net/20160628142452976" width="175" height="290" />
-</div>
 
+<img src="http://img.blog.csdn.net/20160628142439773" width="175" height="290" />
+
+
+
+<img src="http://img.blog.csdn.net/20160628142507759" width="175" height="290" />
+
+
+
+<img src="http://img.blog.csdn.net/20160628142452976" width="175" height="290" />
+
+### GirdView
+### ExpandableListView
