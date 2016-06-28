@@ -7,15 +7,6 @@
 
 ### ListView
 
-![ListView](http://img.blog.csdn.net/20160628142439773) --------  ![GirdView](http://img.blog.csdn.net/20160628142507759)
+![ListView](http://img.blog.csdn.net/20160628142439773 ) -----![GirdView](http://img.blog.csdn.net/20160628142507759)-----![ExpandableListView](http://img.blog.csdn.net/20160628142452976)
 
 
-
-<img src="" width="175" height="290" />
-
-
-
-<img src="http://img.blog.csdn.net/20160628142452976" width="175" height="290" />
-
-### GirdView
-### ExpandableListView
