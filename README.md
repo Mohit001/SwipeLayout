@@ -70,7 +70,7 @@
                     
 
                     /**
-                     * removeSwipeView该item
+                     * 移除该item
                      */
                     SwipeLayout.removeSwipeView(holder.swipelayout);
                 }
