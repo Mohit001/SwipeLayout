@@ -5,19 +5,24 @@
 
 效果如图：
 
-### ListView & GirdView
+### ListView 
 
-![ListView](http://img.blog.csdn.net/20160628142439773 ) -----![GirdView](http://img.blog.csdn.net/20160628142507759)
+![ListView](http://img.blog.csdn.net/20160628142439773 ) 
+
+### GirdView
+
+![GirdView](http://img.blog.csdn.net/20160628142507759)
 
 ### ExpandableListView 
 
-[ExpandableListView](http://img.blog.csdn.net/20160628142452976)
-
+![ExpandableListView](http://img.blog.csdn.net/20160628142452976)
 
 # 使用方法
 
 ## 第一步
 
-> 把SwipeLayout.java拷贝到你的项目里
+> 把[SwipeLayout.java](https://github.com/fanrunqi/SwipeLayout/blob/master/app/src/main/java/cn/scu/fanrunqi/swipelayout/SwipeLayout.java)拷贝到你的项目中。
+
+
 
 
