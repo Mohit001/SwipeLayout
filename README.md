@@ -11,14 +11,14 @@
 
 ### ExpandableListView 
 
-[ExpandableListView](http://img.blog.csdn.net/20160628142452976)
+![ExpandableListView](http://img.blog.csdn.net/20160628142452976)
 
 
 # 使用方法
 
 ## 第一步
 
-> 把SwipeLayout.java拷贝到你的项目里
+> 把 [SwipeLayout.java](https://github.com/fanrunqi/SwipeLayout/blob/master/app/src/main/java/cn/scu/fanrunqi/swipelayout/SwipeLayout.java) 拷贝到你的项目里
 
 
 ## 第二步
@@ -41,7 +41,7 @@
         </LinearLayout>
 
         <LinearLayout
-            android:layout_width="120dp"
+            android:layout_width="具体值（如120dp）"
             android:layout_height="match_parent"
             android:orientation="horizontal">
           //侧滑菜单布局
@@ -51,7 +51,7 @@
 
 ## 第三步 
 
-> 在你的 Adapter的getView() 或是 getChildView（）中添加两行代码
+> 在你的 Adapter的getView() 或是 getChildView（）方法中添加两行代码
 
 ```
  if (convertView == null) {
