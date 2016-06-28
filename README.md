@@ -7,11 +7,11 @@
 
 ### ListView
 
-<img src="http://img.blog.csdn.net/20160628142439773" width="175" height="290" />
+![ListView](http://img.blog.csdn.net/20160628142439773) --------  ![GirdView](http://img.blog.csdn.net/20160628142507759)
 
 
 
-<img src="http://img.blog.csdn.net/20160628142507759" width="175" height="290" />
+<img src="" width="175" height="290" />
 
 
 
