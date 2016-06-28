@@ -104,7 +104,7 @@ public class SwipeLayout extends LinearLayout {
                              */
                             isHorizontalMove = true;
                             /**
-                             * 为了再onTouchEvent的Move事件中第一次模拟滑动距离不要太大，
+                             * 为了在onTouchEvent的Move事件中第一次模拟滑动距离不要太大，
                              * 记录上一次发生move的位置
                              */
                             lastX = curX;
