@@ -19,7 +19,7 @@
 
 ## 第二步
 
-> 给你的swipelayout_item.xml布局，设置自己的内容和侧滑菜单（在以下属性基础上做添加）
+> 给你的listview_item.xml布局，设置自己的内容和侧滑菜单（在以下属性基础上做添加）
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
