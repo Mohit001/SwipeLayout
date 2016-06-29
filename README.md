@@ -30,18 +30,17 @@
     android:id="@+id/swipelayout"
     android:orientation="horizontal"
     >
-        <LinearLayout
+        <xxxLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent" >
            //内容布局
-        </LinearLayout>
+        </xxxLayout>
 
-        <LinearLayout
+        <xxxLayout
             android:layout_width="具体值（如120dp）"
-            android:layout_height="match_parent"
-            android:orientation="horizontal">
+            android:layout_height="match_parent">
           //侧滑菜单布局
-        </LinearLayout>
+        </xxxLayout>
     </cn.scu.fanrunqi.swipelayout.SwipeLayout>
 ```
 
