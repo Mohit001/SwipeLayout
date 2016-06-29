@@ -23,7 +23,7 @@ The effect：
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
-<cn.scu.fanrunqi.swipelayout.SwipeLayout
+<xx.xxx.xxxx.SwipeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="(Specific value) dp"
@@ -41,7 +41,7 @@ The effect：
             android:layout_height="match_parent">
           // ---------your swipe menus----------
         </xxxLayout>
-    </cn.scu.fanrunqi.swipelayout.SwipeLayout>
+    </xx.xxx.xxxx.SwipeLayout>
 ```
 
 ## Step 3
