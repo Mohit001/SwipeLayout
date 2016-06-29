@@ -14,7 +14,7 @@ like this：
 
 ## Step 1
 
-> Copy [SwipeLayout.java](https://github.com/fanrunqi/SwipeLayout/blob/master/app/src/main/java/cn/scu/fanrunqi/swipelayout/SwipeLayout.java)to your project.
+> Copy [SwipeLayout.java](https://github.com/fanrunqi/SwipeLayout/blob/master/app/src/main/java/cn/scu/fanrunqi/swipelayout/SwipeLayout.java) to your project.
 
 
 ## Step 2
