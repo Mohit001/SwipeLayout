@@ -1,71 +1,71 @@
 # SwipeLayout
 
-可添加侧滑菜单的布局（可用于listview、ExpandableListView、GridView等）
+You can add swipelayout in listview、ExpandableListView、GridView ...
 
 
-效果如图：
+like this：
 
 ###　　 ListView　　　　　　　GirdView　　　　　ExpandableListView
 <img src="http://fanrunqi.github.io/images/SwipeLayout/1.gif" width = "232" height = "386"  /> ......
 <img src="http://fanrunqi.github.io/images/SwipeLayout/3.gif" width = "232" height = "386"  /> ......
 <img src="http://fanrunqi.github.io/images/SwipeLayout/2.gif" width = "232" height = "386"  /> 
 
-# 使用方法
+# Usage
 
-## 第一步
+## Step 1
 
-> 把 [SwipeLayout.java](https://github.com/fanrunqi/SwipeLayout/blob/master/app/src/main/java/cn/scu/fanrunqi/swipelayout/SwipeLayout.java) 拷贝到你的项目里
+> Copy [SwipeLayout.java](https://github.com/fanrunqi/SwipeLayout/blob/master/app/src/main/java/cn/scu/fanrunqi/swipelayout/SwipeLayout.java)to your project.
 
 
-## 第二步
+## Step 2
 
-> 给你的listview_item.xml布局，设置自己的内容和侧滑菜单（在以下属性基础上做添加）
+> On the basis of the following attributes ,add your own content and swipe menus in your item.xml.
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <cn.scu.fanrunqi.swipelayout.SwipeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="具体值（如100dp）"
+    android:layout_height="(Specific value) dp"
     android:id="@+id/swipelayout"
     android:orientation="horizontal"
     >
         <xxxLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent" >
-           //内容布局
+           // --------your content-----------
         </xxxLayout>
 
         <xxxLayout
-            android:layout_width="具体值（如120dp）"
+            android:layout_width="(Specific value) dp"
             android:layout_height="match_parent">
-          //侧滑菜单布局
+          // ---------your swipe menus----------
         </xxxLayout>
     </cn.scu.fanrunqi.swipelayout.SwipeLayout>
 ```
 
-## 第三步 
+## Step 3
 
-> 在你的 Adapter的getView() 或是 getChildView（）方法中添加两行代码
+> in your getView() or getChildView（）add following code.
 
 ```
  if (convertView == null) {
           
           
          /**
-         * 添加该item
+         * add this swipeview
          */
          SwipeLayout.addSwipeView(holder.swipelayout);
      }
     
-  //如果你要删除item
-   holder.llDelete.setOnClickListener(new View.OnClickListener() {
+  //if you need delete item
+   holder.BtDetele.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
                     
 
                     /**
-                     * 移除该item
+                     * remove this swipeview
                      */
                     SwipeLayout.removeSwipeView(holder.swipelayout);
                 }
