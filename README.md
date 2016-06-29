@@ -72,6 +72,6 @@
             });
 ```
 
-## About
+### Thanks
 
-> 有什么疑问可以在Issues留言！
+> Everyone who has contributed code and reported issues!
