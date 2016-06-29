@@ -3,7 +3,7 @@
 You can add swipelayout in listview、ExpandableListView、GridView ...
 
 
-like this：
+The effect：
 
 ###　　 ListView　　　　　　　GirdView　　　　　ExpandableListView
 <img src="http://fanrunqi.github.io/images/SwipeLayout/1.gif" width = "232" height = "386"  /> ......
