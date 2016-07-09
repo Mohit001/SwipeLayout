@@ -18,6 +18,7 @@ import java.util.List;
 
 import butterknife.ButterKnife;
 import butterknife.InjectView;
+import cn.fanrunqi.swipelayoutlibrary.SwipeLayout;
 
 public class ListViewActivity extends AppCompatActivity {
 

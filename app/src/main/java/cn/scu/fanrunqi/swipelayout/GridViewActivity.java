@@ -10,12 +10,11 @@ import android.widget.BaseAdapter;
 import android.widget.GridView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-
 import java.util.ArrayList;
 import java.util.List;
-
 import butterknife.ButterKnife;
 import butterknife.InjectView;
+import cn.fanrunqi.swipelayoutlibrary.SwipeLayout;
 
 public class GridViewActivity extends AppCompatActivity {
 
