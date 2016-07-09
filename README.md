@@ -14,8 +14,19 @@ The effect：
 
 ## Step 1
 
-> Copy [SwipeLayout.java](https://github.com/fanrunqi/SwipeLayout/blob/master/app/src/main/java/cn/scu/fanrunqi/swipelayout/SwipeLayout.java) to your project.
-
+> Gradle
+```
+compile 'cn.fanrunqi:swipelayoutlibrary:1.0.0'
+```
+> Maven
+```
+<dependency>
+  <groupId>cn.fanrunqi</groupId>
+  <artifactId>swipelayoutlibrary</artifactId>
+  <version>1.0.0</version>
+  <type>pom</type>
+</dependency>
+```
 
 ## Step 2
 
@@ -23,7 +34,7 @@ The effect：
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
-<xx.xxx.xxxx.SwipeLayout
+<cn.fanrunqi.swipelayoutlibrary.SwipeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="(Specific value) dp"
@@ -41,7 +52,7 @@ The effect：
             android:layout_height="match_parent">
           // ---------your swipe menus----------
         </xxxLayout>
-    </xx.xxx.xxxx.SwipeLayout>
+    </cn.fanrunqi.swipelayoutlibrary.SwipeLayout>
 ```
 
 ## Step 3
