@@ -83,4 +83,3 @@ compile 'cn.fanrunqi:swipelayoutlibrary:1.0.0'
             });
 ```
 
-### Thanks
