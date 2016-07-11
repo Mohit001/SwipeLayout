@@ -12,7 +12,7 @@ The effect：
 
 # Usage
 
-## Step 1
+## dependency
 
 > Gradle
 ```
@@ -28,7 +28,7 @@ compile 'cn.fanrunqi:swipelayoutlibrary:1.0.0'
 </dependency>
 ```
 
-## Step 2
+## layout
 
 > On the basis of the following attributes ,add your own content and swipe menus in your item.xml.
 
@@ -55,7 +55,7 @@ compile 'cn.fanrunqi:swipelayoutlibrary:1.0.0'
     </cn.fanrunqi.swipelayoutlibrary.SwipeLayout>
 ```
 
-## Step 3
+## code
 
 > in your getView() or getChildView（）add following code.
 
