@@ -8,6 +8,8 @@ The effect：
 ###　　 ListView　　　　　　　GirdView　　　　　ExpandableListView
 <img src="https://raw.githubusercontent.com/fanrunqi/SwipeLayout/master/screenshots/1.gif" width = "232" height = "386"  /> ......
 <img src="https://raw.githubusercontent.com/fanrunqi/SwipeLayout/master/screenshots/2.gif" width = "232" height = "386"  /> ......
+
+
 <img src="https://raw.githubusercontent.com/fanrunqi/SwipeLayout/master/screenshots/3.gif" width = "232" height = "386"  /> 
 
 # Usage
